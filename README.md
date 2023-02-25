@@ -5,4 +5,5 @@ Hello! This is a snake game based of Discord Snek. This is in beta, and might cr
 # How to install
 Click the Snake Game.exe file, then download. Enjoy!
  ____________
-|____________|
+# Version 1.2
+The snake game will be continue updating! Version 1.2
